@@ -34,3 +34,4 @@ Duplication is ok. Please write your favorite sports.
 - judo
 - handball
 - Badminton
+- Netball
