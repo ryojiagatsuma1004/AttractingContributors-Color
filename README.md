@@ -35,3 +35,4 @@ Duplication is ok. Please write your favorite sports.
 - handball
 - Badminton
 - Netball
+- badminton
