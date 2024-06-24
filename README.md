@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. Augmented Reality
 7. SnapshotTesting
 8. document
+9. Materials Informatics
