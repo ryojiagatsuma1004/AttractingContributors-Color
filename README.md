@@ -29,3 +29,4 @@ Goal - I want contributors to help me list some sports. Please add below.
 8. baseball
 9. Tabel teniss
 10. Badminton
+11. Swimming
