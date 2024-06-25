@@ -22,4 +22,5 @@ Goal - I want contributors to help me list some favorite color.
 - Green
 - Blue
 - Red
+- Orange
 - Purple
