@@ -25,5 +25,6 @@ Goal - I want contributors to help me list some favorite color.
 - Orange
 - Purple
 - Black
+- Gold
 - Burgundy
 - white
