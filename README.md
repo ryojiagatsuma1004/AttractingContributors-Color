@@ -8,4 +8,4 @@ What is your favorite anime?
 7. NARUTO
 8. Yamikin Ushijima-kun
 9. yurucamp△
-10.
+10. Delicious in Dungeon
