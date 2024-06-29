@@ -29,3 +29,4 @@ Goal - I want contributors to help me list some favorite color.
 - Burgundy
 - white
 - yellow
+- Navy
