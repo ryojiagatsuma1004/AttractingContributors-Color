@@ -31,3 +31,4 @@ Goal - I want contributors to help me list some favorite color.
 - yellow
 - Navy
 - Pink
+- beige
